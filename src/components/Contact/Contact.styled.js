@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ContactItemBtn = styled.button`
-cursor: pointer;
+  cursor: pointer;
   border: none;
   outline: none;
   padding: 0;
